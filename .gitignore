@@ -28,3 +28,6 @@ hs_err_pid*
 .target/
 .out/
 .build/
+
+## Игнорировать файл pom.xml
+#pom.xml

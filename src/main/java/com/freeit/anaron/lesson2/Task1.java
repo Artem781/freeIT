@@ -5,9 +5,6 @@ package com.freeit.anaron.lesson2;
 //Например, "это однозначное положительное число".
 // Достаточно будет определить, является ли число однозначным, "двухзначным или трехзначным и более.
 public class Task1 {
-    public static void main(String[] args) {
-        System.out.println("hi");
-    }
     public String isPositiveCountDigit(int inputNumber) {
         if (inputNumber == 0) {
             return "input: zero";
